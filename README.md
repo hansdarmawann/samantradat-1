@@ -29,7 +29,9 @@ This dataset contains 100,000 synthetic manufacturing transaction records repres
 ---
 
 ## 🎥 Source Inspiration
-Business process reference derived from smartphone assembly workflow observation in factory tour video by [https://www.youtube.com/watch?v=U76imVp-OgQ]GadgetIn (YouTube – Realme 12 Pro+ assembly process).
+Business process reference derived from smartphone assembly workflow observation in the factory tour video by GadgetIn:  
+https://www.youtube.com/watch?v=U76imVp-OgQ  
+(Realme 12 Pro+ assembly process)
 
 ---
 
